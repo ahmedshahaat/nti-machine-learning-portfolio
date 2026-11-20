@@ -34,5 +34,5 @@ For Linear Regression, the notebook also reports an MSE of 1,444,428,483.75 and 
 
 ## Project files
 
-- `notebook.ipynb` — the Colab notebook.
-- `dataset/House_Rent_Dataset.csv` — the dataset used by the notebook.
+- `House Rent Regression.ipynb` — the Google Colab notebook for this task.
+- Dataset source — [House Rent Prediction Dataset on Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset/data).
