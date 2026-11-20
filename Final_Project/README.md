@@ -34,8 +34,7 @@ The test-period results are exploratory because the same test period was reused 
 
 - `Air.ipynb` — project notebook.
 - `city_day.csv` — dataset.
-- `Air_Quality_Machine_Learning_Presentation.pptx` — project presentation.
 
 ## Deployment
 
-The application and live deployment link will be added after the deployment step is complete.
+The live deployment link will be added after deployment is completed.
